@@ -1,14 +1,9 @@
-base-node-app
+quill-firebase
 =============
 
-A simple website starting point using the Sequelize ORM for MySQL written in Coffeescript and using a Material Design
-inspired Bootstrap theme for styling.
+Work In Progress.
 
-### Description
-
-This site has a simple Material Design inspired Bootstrap themed UI to allow users to log in, an update their profile.
-The point of this project is to provide a launching pad for an application without the need to rewrite user management
-code over and over again.
+This project aims to synchronize multiple [Quill editors](quilljs.com) with online and offline edit support by using [Firebase](https://www.firebase.com).
 
 ### Installation Instructions
 
